@@ -1,0 +1,6 @@
+C:\Users\ledlo\Desktop\projectcafe-master\Project_cafe\bin\Debug\Project_cafe.exe.config
+C:\Users\ledlo\Desktop\projectcafe-master\Project_cafe\bin\Debug\Project_cafe.exe
+C:\Users\ledlo\Desktop\projectcafe-master\Project_cafe\bin\Debug\Project_cafe.pdb
+C:\Users\ledlo\Desktop\projectcafe-master\Project_cafe\obj\Debug\Project_cafe.csprojResolveAssemblyReference.cache
+C:\Users\ledlo\Desktop\projectcafe-master\Project_cafe\obj\Debug\Project_cafe.exe
+C:\Users\ledlo\Desktop\projectcafe-master\Project_cafe\obj\Debug\Project_cafe.pdb
